@@ -1,0 +1,14 @@
+[user]
+	name = TDIPS_moriwaki_ryouta
+	email = moriwaki.ryouta@kk.jp.panasonic.com
+[core]
+	editor = emacs.exe
+[alias]
+	co = checkout
+	ci = commit
+	me = merge
+	st = status
+	con = config
+	df = diff
+	fe = fetch
+[arias]
